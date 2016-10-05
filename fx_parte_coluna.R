@@ -55,3 +55,8 @@ fx_parte_coluna <- function(coluna_id, coluna_complexa,separadores = "+"){
   
   
 }
+
+### como converter em tabela espalhada
+# criar coluna chamada valores com o valor 1
+# library(tidyr)
+# tabela_espalhada <- spread(tabela,coluna_a_espalhar, valores)
