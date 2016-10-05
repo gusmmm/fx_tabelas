@@ -4,8 +4,8 @@
 # devolve uma tabela com 2 colunas: identificador info
 
 ### packages necessárias ###
-# library(stringr)
-# library(dplyr)
+library(stringr)
+library(dplyr)
 
 ### pre-requisitos ###
 
